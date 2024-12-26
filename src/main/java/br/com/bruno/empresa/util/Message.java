@@ -1,0 +1,12 @@
+package br.com.bruno.empresa.util;
+
+public enum Message {
+
+    EMPRESA_NAO_ENCONTRADA,
+    SEM_EMPRESA_COM_ID_,
+    EMPRESA_CRIADA_COM_SUCESSO,
+    EMPRESA_ATUALIZADA_COM_SUCESSO,
+    EMPRESA_DELETADA_COM_SUCESSO,
+    ERRO_AO_DELETAR_EMPRESA;
+
+}
